@@ -2,7 +2,7 @@ body {
     background-image: url("background.jpg") ;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: cover;
     font-family:'Times New Roman', Times, serif;
     background-color: #f4f4f9;
     margin: 0;
