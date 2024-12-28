@@ -35,3 +35,9 @@
 <p align="left">-> Addition of deadlines or reminders for each tasks.<br><br>-> Categorize tasks into High, Medium and Low.<br><br>-> Exporting and Importing of all the tasks in different devices.<br><br>-> Introducing themes for better user experience.</p>
 
 ###
+<h4>STAR it if you like it!!</h4>
+
+###
+<p> I am ready to collaborate on interesting projects!</p>
+
+###
